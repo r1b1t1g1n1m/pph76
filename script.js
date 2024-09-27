@@ -88,7 +88,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     
     
-    attachCellClickListeners();
     
     
     let isFirstPlay = true;
