@@ -8,12 +8,12 @@ const translations = {
         play: "Get signal",
     },
     az: {
-        traps: "1",
-        play: "2",
+        traps: "tələ",
+        play: "Siqnal alın",
     },
     uz: {
-        traps: "1",
-        play: "2",
+        traps: "tuzoq",
+        play: "Signalni oling",
     }
 };
 
